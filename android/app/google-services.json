@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "530162586030",
+    "project_id": "chat-e53ab",
+    "storage_bucket": "chat-e53ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530162586030:android:abc9d7af99701f62d2b83f",
+        "android_client_info": {
+          "package_name": "com.basuoni.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530162586030-laa4n2iji89co557895m7h9na5bjjrl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basuoni.chat",
+            "certificate_hash": "8c0f0730f57ca2be4fc808affd33d852cabf64be"
+          }
+        },
+        {
+          "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eIIbW7zRxttaVbiqUkSmZzoIQi92EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530162586030-tmr1cjf8mj0bmoas45e103qj7qh5co9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.basuoni.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530162586030:android:a4c7323b8dd23eb8d2b83f",
+        "android_client_info": {
+          "package_name": "com.basuoni.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eIIbW7zRxttaVbiqUkSmZzoIQi92EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530162586030-tmr1cjf8mj0bmoas45e103qj7qh5co9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.basuoni.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530162586030:android:8e17cb905e5ef528d2b83f",
+        "android_client_info": {
+          "package_name": "com.basuoni.phon_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530162586030-bjfpfshufdu90598b67gdq1gtipccj27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basuoni.phon_auth",
+            "certificate_hash": "33432b9adc2a6740dd5f37156396feffc60e5582"
+          }
+        },
+        {
+          "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eIIbW7zRxttaVbiqUkSmZzoIQi92EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530162586030-217m6k8h2h8hn1u1ot192o9iu430p7rs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530162586030-tmr1cjf8mj0bmoas45e103qj7qh5co9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.basuoni.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

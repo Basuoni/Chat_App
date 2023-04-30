@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="60.999" viewBox="0 0 67 60.999">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff725e"/>
+      <stop offset="1" stop-color="#655a58"/>
+    </linearGradient>
+    <filter id="Union_13" x="6" y="0" width="61" height="60.999" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="#ff725e" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_14" x="0" y="0.634" width="61" height="54.366" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.639"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_157" data-name="Group 157" transform="translate(-1841.5 446.5)">
+    <g transform="matrix(1, 0, 0, 1, 1841.5, -446.5)" filter="url(#Union_13)">
+      <path id="Union_13-2" data-name="Union 13" d="M3986.066,125.466l-5.705,1.545,1.43-5.309a16.982,16.982,0,1,1,4.275,3.764Z" transform="translate(-3961.5 -83.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1841.5, -446.5)" filter="url(#Union_14)">
+      <path id="Union_14-2" data-name="Union 14" d="M3986.066,125.466l-5.705,1.545,1.43-5.309A16.928,16.928,0,0,1,3978,111c0-9.389,12.972-14.7,19.137-5.832,3.045,4.377,6.708,3.562,9.635,2.749,3-.835,5.229-1.669,5.229,3.083a17,17,0,0,1-25.934,14.465Z" transform="translate(-3961.5 -83.5)" fill="#994438"/>
+    </g>
+    <path id="Path_111" data-name="Path 111" d="M-4104.322-23.96a6.41,6.41,0,0,1,1.768-.233s.269-.045.51.465,1.342,3.052,1.342,3.052a1.232,1.232,0,0,1-.358,1.226c-.582.573-.859.805-.859.805s-.242.215.08.743a9.966,9.966,0,0,0,5.256,4.552c.238.089.5.175.7-.07s1.35-1.632,1.35-1.632a.605.605,0,0,1,.715-.2c.4.2,3.177,1.545,3.177,1.545a.578.578,0,0,1,.332.6,3.266,3.266,0,0,1-2.158,3.054c-2.021.736-4.729-.527-4.729-.527a18.2,18.2,0,0,1-8.375-8.062A3.855,3.855,0,0,1-4104.322-23.96Z" transform="translate(5973.005 -402.088)" fill="#fff"/>
+  </g>
+</svg>

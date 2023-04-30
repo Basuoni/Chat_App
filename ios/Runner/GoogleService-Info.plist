@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>530162586030-12k46b5mab980sj1q4j99kgam17d8er8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.530162586030-12k46b5mab980sj1q4j99kgam17d8er8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>530162586030-bjfpfshufdu90598b67gdq1gtipccj27.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_hJyitb_9wcENmXhMObBvs7MZv9kwhmo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>530162586030</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.basuoni.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chat-e53ab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-e53ab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:530162586030:ios:a46b20b04aadbd2dd2b83f</string>
+</dict>
+</plist>
